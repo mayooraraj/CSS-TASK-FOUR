@@ -1,0 +1,275 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+}
+.list{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.list li{
+    list-style-type: none;
+    margin: 20px; 
+    font-weight: bolder; 
+}
+.join{
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.second_div{
+    background-image: url(learning.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.text{
+    color: white;
+}
+.btn1{
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+    margin: 60px 0px 0px 100px;
+    background-color: rgb(7, 7, 112);
+    border-color: white;
+    color: white;
+}
+.btn2{
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+    margin: 60px 0px 0px 20px;
+    background-color:white;
+    border: none;
+    color: black
+}
+.btn3{
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+    margin: 20px 0px 0px 0px;
+    background-color: rgb(30, 129, 168);
+    border-color: white;
+    color: white;
+}
+.btn1:hover{
+    background-color: yellow;
+    color: black;
+}
+.btn2:hover{
+    background-color: yellow;
+}
+.card1{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(213, 219, 224);
+    text-align: center;
+    margin: 40px;
+}
+.card2{
+    width: 330px;
+    height: 350px;
+    text-align: center;
+    background-color: rgb(179, 216, 231);
+    margin: 50px;
+}
+.card3{
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    background-color: rgb(179, 216, 231);
+    margin: 65px;
+}
+.card8{
+    width: 250px;
+    height: 330px;
+    text-align: center;
+    background-color:rgb(231, 231, 106);
+    margin: 30px;
+}
+.card5{
+    width: 250px;
+    height: 300px;
+    background-color:white;
+    text-align: center;
+    margin: 80px;
+}
+.img1{
+    width: 90px;
+    height: 70px;
+    margin:40px 0px 20px 0px;
+    border-radius: 50px;
+}
+.img2{
+    width: 500px;
+    height: 460px;
+    margin-left: 100px;
+}
+.img3{
+    width: 670px;
+    margin: 20px 0px 5px 50px;
+}
+.img4{
+    margin: 20px 90px 0px 0px;
+    width: 550px;
+    height: 580px;
+}
+.img5{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0px 5px 50px;
+}
+.img6{
+    width: 330px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.img7{
+    width:250px;
+}
+.card_heading{
+    margin: 0px 0px 20px 0px;
+}
+.cards{
+    display: flex;
+    margin: 50px 0px 30px 0px; 
+}
+.cards2{
+    display: flex;
+    margin: 50px 0px 30px 0px; 
+}
+.fourth_left{
+    width: 50%;
+}
+.fourth_right{
+    width: 50%;
+
+}
+.fourth_div{
+    display: flex;
+    margin-bottom: 100px;
+}
+.list_two{
+    display: flex;
+}
+.list_two li{
+    line-height: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.list3{
+    margin-left: 100px;
+}
+.fifth_left{
+    width: 55%;
+}
+.fifth_right{
+    width: 45%;
+}
+.img_parent{
+    display: flex;
+}
+.fifth_img{
+    display: flex;
+}
+.fifth_div{
+    margin-bottom: 90px;
+}
+.parent_card{
+    display: flex;
+    margin-left: 50px;
+}
+.nine{
+    display: flex;
+    background-color: rgb(4, 4, 88);
+    color: white;
+    height: 250px;
+}
+.hr1{
+    background-color: rgb(4, 4, 88);
+    height: 80px;
+}
+.cont_list li{
+    font-weight: lighter;
+}
+.quick_list{
+    color: white;
+    padding: 20px 20px 20px 50px;
+    line-height: 30px;
+}
+.cont_list{
+    color: white;
+    padding: 20px 20px 20px 50px;
+    line-height: 30px;
+}
+.list4{
+    margin-top: 40px;
+}
+.contact{
+    margin: 40px 40px 0px 60px;
+}
+.classes{
+    margin: 40px 40px 0px 60px;
+}
+.Reviews{
+    margin: 40px 40px 0px 60px;
+}
+.search{
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 35px;
+    outline-style: none;
+}
+::placeholder{
+    color: blue;
+}
+.sign{
+    position: absolute;
+    width: 80px;
+    margin-top: 20px;
+    height:25px ;
+    background-color: rgb(16, 95, 126);
+    color: white;
+    border: none;
+    right: 20px;
+    font-size: 15px;
+    margin-top: 30px;
+    
+}
+.last
+{
+    display: inline-block;
+    position:relative;
+}
+.last_text{
+    display: flex;
+}
+.h{
+    color: white;
+    font-weight: lighter;
+    margin: 20px 0px 0px 50px;
+    font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+    .navbar {
+         background-color: aquamarine;
+        width: 100%;
+    }
+    .card1{
+        background-color: yellow;
+        width: 100%;
+    }
+    .card8{
+        background-color:red;
+        width: 100%;
+    }
+}
